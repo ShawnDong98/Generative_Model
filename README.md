@@ -16,4 +16,20 @@
 - VAE-GAN：Autoencoding beyond pixels using a learned similarity metric
 - WGAN-GP：Improved training of wasserstein gans
 - AdaIN：Arbitrary style transfer in real-time with adaptive instance normalization
+- PGGAN: PROGRESSIVE GROWING OF GANS FOR IMPROVED
+QUALITY, STABILITY, AND VARIATION
+- StyleGAN：A Style-Based Generator Architecture for Generative Adversarial Networks
 
+
+# Reference
+- [pytorch实现GAN](https://blog.csdn.net/jizhidexiaoming/article/details/96485095)
+- [PyTorch-GAN/implementations/dcgan](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dcgan/dcgan.py)
+- [PyTorch-GAN/implementations/wgan/wgan.py](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py)
+- [Pytorch入门之VAE](https://blog.csdn.net/c2a2o2/article/details/92583281)
+- [PyTorch-GAN/implementations/cgan/cgan.py](https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cgan/cgan.py)
+- [timbmg/VAE-CVAE-MNIST](https://github.com/timbmg/VAE-CVAE-MNIST)
+- [Pytorch-VAE-GAN/blob/master/VAE-GAN.ipynb](https://github.com/a514514772/Pytorch-VAE-GAN/blob/master/VAE-GAN.ipynb)
+- [wgan-gp/gan_cifar10.py](https://github.com/caogang/wgan-gp/blob/master/gan_cifar10.py)
+- [naoto0804/pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN)
+- [akanimax/pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch)
+- [rosinality/style-based-gan-pytorch](https://github.com/rosinality/style-based-gan-pytorch)
