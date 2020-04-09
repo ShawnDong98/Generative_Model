@@ -19,6 +19,7 @@
 - PGGAN: PROGRESSIVE GROWING OF GANS FOR IMPROVED
 QUALITY, STABILITY, AND VARIATION
 - StyleGAN：A Style-Based Generator Architecture for Generative Adversarial Networks
+- SAGAN：Self-Attention Generative Adversarial Networks
 
 
 # Reference
@@ -33,3 +34,4 @@ QUALITY, STABILITY, AND VARIATION
 - [naoto0804/pytorch-AdaIN](https://github.com/naoto0804/pytorch-AdaIN)
 - [akanimax/pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch)
 - [rosinality/style-based-gan-pytorch](https://github.com/rosinality/style-based-gan-pytorch)
+- [heykeetae/Self-Attention-GAN](https://github.com/heykeetae/Self-Attention-GAN)
